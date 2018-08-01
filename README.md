@@ -12,3 +12,10 @@ It can be seen as only the data corresponding to TMIN and TMAX is needed we dowl
 for explanation of ELEMENT codes and their units as well as the M-FLAG, Q-FLAGS and S-FLAGS.
 
 ftp://ftp.ncdc.noaa.gov/pub/data/ghcn/daily/readme.txt file
+
+### The questions attempted are :
+- Maximum TMAX, Minimum TMIN for each year excluding abnormalities or missing data
+- Average TMIN, TMAX for each year excluding abnormalities or missing data
+- 5 hottest , 5 coldest weather stations for each year excluding abnormalities or missing data
+- Hottest and coldest day and corresponding weather stations in the entire dataset
+- Median TMIN, TMAX for each year and corresponding weather stations
